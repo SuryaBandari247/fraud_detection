@@ -11,4 +11,4 @@ def model2():
 def model3():
     print('ml model 3')
 
-print('model2 is performing best. Let check merge')
+print('model2 is not performing best')
